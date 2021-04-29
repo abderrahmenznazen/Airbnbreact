@@ -1,0 +1,11 @@
+.card-item .cardlink{
+    display: grid;
+    grid-template-rows: 4fr 1fr;
+    height: 300px;
+    width:100%;
+    border-radius: 12px;
+
+}
+.card-item .cardlink img{
+    border-radius: 12px;
+}
